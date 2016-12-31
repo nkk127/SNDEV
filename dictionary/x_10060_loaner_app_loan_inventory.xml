@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Loan Inventory" max_length="40" name="x_10060_loaner_app_loan_inventory" type="collection"/>
+</database>

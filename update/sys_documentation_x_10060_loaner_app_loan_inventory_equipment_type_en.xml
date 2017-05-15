@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_documentation element="" label="Loan Inventory" language="en" table="x_10060_loaner_app_loan_inventory">
+    <sys_documentation element="equipment_type" label="Equipment Type" language="en" table="x_10060_loaner_app_loan_inventory">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element/>
+            <element>equipment_type</element>
             <help/>
             <hint/>
-            <label>Loan Inventory</label>
+            <label>Equipment Type</label>
             <language>en</language>
             <name>x_10060_loaner_app_loan_inventory</name>
-            <plural>Loan Inventories</plural>
+            <plural>Equipment Types</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-12-31 02:02:14</sys_created_on>
-            <sys_customer_update>false</sys_customer_update>
-            <sys_id>fc5faf0d4f0072008dfbb2718110c794</sys_id>
+            <sys_created_on>2017-05-15 18:57:54</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>4b66aa74dbf23200f948d450cf9619f8</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Loan Inventory</sys_name>
+            <sys_name>Equipment Type</sys_name>
             <sys_package display_value="Loaner Application" source="x_10060_loaner_app">adceaf094f0072008dfbb2718110c773</sys_package>
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="Loaner Application">adceaf094f0072008dfbb2718110c773</sys_scope>
-            <sys_update_name>sys_documentation_x_10060_loaner_app_loan_inventory__en</sys_update_name>
+            <sys_update_name>sys_documentation_x_10060_loaner_app_loan_inventory_equipment_type_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-12-31 02:02:14</sys_updated_on>
+            <sys_updated_on>2017-05-15 18:57:54</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
